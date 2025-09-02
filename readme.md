@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="./assets/header.png" alt="Header" width="100%" />
 </p>
 
 <h2 align="center">Hey, I'm Philipp 👋</h2>
