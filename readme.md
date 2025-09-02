@@ -1,9 +1,5 @@
 <p align="center">
-<svg width="600" height="100" viewBox="0 0 600 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <text x="0" y="70" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="#000000">
-    Philipp Z.
-  </text>
-</svg>
+  <img src="./assets/header.png" alt="Header" width="100%" />
 </p>
 
 <h2 align="center">Hey, I'm Philipp 👋</h2>
