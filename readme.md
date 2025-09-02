@@ -5,7 +5,7 @@
 <h2 align="center">Hey, I'm Philipp 👋</h2>
 
 <p align="center">
-  Founder of <strong>BlåerrRPG</strong> — minecraft rpg for java and bedrock.
+  Founder of <strong>PolixerRPG</strong> — minecraft rpg for java and bedrock.
   <br />
 </p>
 
