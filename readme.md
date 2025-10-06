@@ -4,7 +4,7 @@
 <h2 align="center">Hello, I'm Philipp Zinhobl</h2>
 
 <h2 align="center">
-  Hey it's me Philipp Zinhobl, Informatic Education ~ HTL | Software Developer | Technology Enthusiast | Cybersecurity | Web Development | <a href="https://drive.google.com/file/d/14JcEkdm40r_fEIkkBBFLdKOz7PTXOlm_/view?usp=sharing" target="_blank">Resume</a> |
+  Hey it's me Philipp Zinhobl, Informatic Education ~ HTL | Software Developer | Server Ingeniuer | Web Development | <a href="https://drive.google.com/file/d/14JcEkdm40r_fEIkkBBFLdKOz7PTXOlm_/view?usp=sharing" target="_blank">Resume</a> |
 </h2>
 
 ---
