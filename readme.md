@@ -1,12 +1,11 @@
 <p align="center">
 </p>
 
-<h2 align="center">Hey, I'm Philipp 👋</h2>
+<h2 align="center">Hello, I'm Philipp Zinhobl</h2>
 
-<p align="center">
-  Founder of <strong>PolixerRPG</strong> — minecraft rpg for java and bedrock.
-  <br />
-</p>
+<h2 align="center">
+  Hey it's me Philipp Zinhobl, Informatic Education ~ HTL | Software Developer | Technology Enthusiast | Cybersecurity | Web Development | <a href="https://drive.google.com/file/d/14JcEkdm40r_fEIkkBBFLdKOz7PTXOlm_/view?usp=sharing" target="_blank">Resume</a> |
+</h2>
 
 ---
 
