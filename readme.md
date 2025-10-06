@@ -4,7 +4,7 @@
 <h2 align="center">Hello, I'm Philipp Zinhobl</h2>
 
 <h2 align="center">
-  Hey it's me Philipp Zinhobl, Informatic Education ~ HTL | Software Developer | Server Ingeniuer | Web Development |
+  Hey it's me Philipp Zinhobl, Informatic Education ~ HTL | Software Developer | Server Ingeniuer | Web Development 
 </h2>
 
 ---
