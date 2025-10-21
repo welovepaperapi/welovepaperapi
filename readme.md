@@ -22,6 +22,20 @@
   </tr>
 </table>
 
+
+## 🚀 Shooter
+
+<table>
+  <tr>
+    <td><img src="./assets/logo.jpg" width="48" alt="PolixerRPG" /></td>
+    <td>
+      <strong>Founder & Game Director</strong><br />
+      <em>Shooter</em><br />
+      A Multiplayer Shooter.
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 📊 GitHub Stats
