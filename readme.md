@@ -44,3 +44,5 @@
 <p align="center">
   <em>More projects coming soon. Stay tuned!</em>
 </p>
+
+---
