@@ -7,10 +7,10 @@ I code and publish whatever I can imagine.
 If an idea pops into my head, chances are I’ll code it.
 
 
-My main tech stack is C++, Java, HTML, and Lua. My favorite tools are CLion, IntelliJ IDEA, and VSCode.
+My main tech stack is C#, Java, PHP, and Lua. My favorite tools are IntelliJ IDEA, and VSCode.
 
 
-I’ve got a bunch of projects, but my main project is PolixerRPG.
+I’ve got a bunch of projects, but my main project is Ängler-Studios.
 
 
 I’ve built over 100 private repos, but publicly, it’s probably less than 20 at this point.
@@ -18,4 +18,4 @@ I’ve built over 100 private repos, but publicly, it’s probably less than 20 
 
 Fun Facts:
 Oregairu is my favorite anime
-Hobbies: anime, soccer
+Hobbies: anime, soccer, volleyball
