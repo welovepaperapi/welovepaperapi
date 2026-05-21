@@ -10,11 +10,4 @@ If an idea pops into my head, chances are I’ll code it.
 My main tech stack is C#, Java, PHP, and Lua. My favorite tools are IntelliJ IDEA, and VSCode.
 
 
-Currently working on: https://glowingparadise.net, https://anglerstudios.de
-
-I’ve built over 100 private repos, but publicly, it’s probably less than 20 at this point.
-
-
-Fun Facts:
-Oregairu is my favorite anime
-Hobbies: anime, soccer, volleyball
+Currently working on: https://glowingparadise.net, https://anglerstudios.de, https://lyndara.net
